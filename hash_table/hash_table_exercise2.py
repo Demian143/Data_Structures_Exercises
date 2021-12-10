@@ -1,5 +1,8 @@
 from hash_table.hash_table1 import HashTable
 
+""" I dicided to re-use the HashTable class to get used with the Hash Table 
+    idea, so I traded complexity for knowledge."""
+
 
 class NycWeather(HashTable):
     def set_days(self):
